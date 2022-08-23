@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SO9010
 - 👀 I’m interested in C++
-- 🌱 I’m currently learning how to live paha
+- 🌱 I’m currently learning the SDL2 API
 - 💞️ I’m not sure what to contribute on
 
 <!---
